@@ -2,7 +2,13 @@
 langchain-core
 langchain-openai
 langchain-community
+langserve
 
 # Streamlit & environment
 streamlit>=1.32.0
 python-dotenv>=1.0.0
+
+#API web frameworks
+fastapi
+uvicorn
+sse_starlette
