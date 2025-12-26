@@ -12,3 +12,13 @@ python-dotenv>=1.0.0
 fastapi
 uvicorn
 sse_starlette
+
+#HTML parser
+bs4
+
+#PDF processor
+pypdf
+
+#database
+chromadb
+faiss-cpu
