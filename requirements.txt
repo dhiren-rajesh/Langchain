@@ -26,3 +26,7 @@ faiss-cpu
 #misc
 arxiv
 wikipedia
+
+#groq
+grog
+langchain-groq
