@@ -307,18 +307,6 @@ Think in roles:
 * **Stuff** = put all docs in one prompt
 * **RAG** = retrieval + generation (LangChain formalizes it)
 
----
-
-If you want, next I can:
-
-* explain **agents vs chains**
-* show a **diagram of all components**
-* walk through LangChain’s internal data flow
-* help you design your *own* custom chain
-
-You’re thinking about this exactly the right way — this is how you go from *using* LangChain to *understanding* it.
-
-
 
 
 ---
