@@ -22,3 +22,7 @@ pypdf
 #database
 chromadb
 faiss-cpu
+
+#misc
+arxiv
+wikipedia
