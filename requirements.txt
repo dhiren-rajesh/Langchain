@@ -30,3 +30,6 @@ wikipedia
 #groq
 grog
 langchain-groq
+
+#huggingface
+sentence-transformers
